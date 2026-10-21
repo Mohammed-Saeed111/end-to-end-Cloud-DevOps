@@ -329,27 +329,4 @@ The Jenkins multibranch pipeline is automatically triggered by **GitHub branch p
 
 ---
 
-<a id="operational-documentation"></a>
-## 📚 Operational Documentation
 
-- 📘 [Master Deployment Guide](08-Documentation-Operations/Lab19-End-To-End-Deployment-Operations/deployment-guide.md)
-- 🛠️ [Troubleshooting Handbook](08-Documentation-Operations/Lab19-End-To-End-Deployment-Operations/troubleshooting-guide.md)
-- 🔐 [Security & Credentials Management](08-Documentation-Operations/Lab19-End-To-End-Deployment-Operations/step_by_step_credentials.md)
-
----
-
-<a id="contributing"></a>
-## 🤝 Contributing
-
-Contributions are welcome! Please follow standard pull request workflows.
-
----
-
-<a id="license"></a>
-## 📄 License
-
-Developed as part of the **NTI (National Telecommunication Institute) DevOps Program** final project.
-
-<p align="center">
-  Built with ❤️ as part of the NTI DevOps Program
-</p>
