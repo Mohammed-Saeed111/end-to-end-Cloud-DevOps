@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Step By Step NTI Cloud DevOps Final Project</h1>
+<h1 align="center">🚀 Cloud & DevOps  Project</h1>
 
 <p align="center">
   <strong>A production-grade, end-to-end DevOps platform on AWS</strong>
